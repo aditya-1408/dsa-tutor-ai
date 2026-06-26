@@ -1,0 +1,6 @@
+{
+  "name": "DSA Tutor AI",
+  "description": "A modern, highly polished dark-themed AI chatbot and interactive playground for learning Data Structures, Algorithms, Competitive Programming, and technical interview preparation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
